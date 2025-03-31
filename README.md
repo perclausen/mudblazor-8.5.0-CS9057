@@ -1,5 +1,6 @@
 MudBlazor 8.5.0 Code Analyzer issue.
 
+https://github.com/MudBlazor/MudBlazor/issues/11114
 
 Executing
 
